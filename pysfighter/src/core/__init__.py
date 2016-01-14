@@ -1,1 +1,2 @@
 from heartbeat import heartbeat
+from venue_heartbeat import venue_heartbeat
