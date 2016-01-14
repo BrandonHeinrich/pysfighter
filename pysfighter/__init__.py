@@ -1,2 +1,5 @@
-import src
+import src.core as core
+
+
+
 import tests
