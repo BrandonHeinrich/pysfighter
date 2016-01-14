@@ -1,2 +1,3 @@
 from heartbeat import heartbeat
 from venue_heartbeat import venue_heartbeat
+from stocks_on_venue import stocks_on_venue
